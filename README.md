@@ -1,6 +1,5 @@
 # Hi 👋 I'm Gautham Hari
-### 💫 About Me 
-<br>➜ Sophomore CS major at the University of Maryland, College Park<br>➜ From Edison, NJ<br>➜ SWE Intern at MITRE in McLean, VA<br>
+### 💫 About Me <br>➜ Sophomore CS major at the University of Maryland, College Park<br>➜ From Edison, NJ<br>➜ SWE Intern at MITRE in McLean, VA<br>
 ### ⭐Hobbies 
 <br>➜Gym<br>➜Basketball + Tennis<br>➜Stargazing<br>
 
