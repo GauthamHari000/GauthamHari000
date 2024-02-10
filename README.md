@@ -1,8 +1,7 @@
 # Hi 👋 I'm Gautham Hari
 ## 💫 About Me
 <br>➜ Sophomore CS major at the University of Maryland, College Park<br>➜ From Edison, NJ<br>➜ SWE Intern at MITRE in McLean, VA<br>
-### ⭐Hobbies 
-<br>➜Gym<br>➜Basketball + Tennis<br>➜Stargazing<br>
+### ⭐Hobbies <br>➜Gym<br>➜Basketball + Tennis<br>➜Stargazing<br>
 
 <br>🔭 I’m currently working on<br>➜ Microsoft Azure AZ-900 Certification Exam (March 2024)<br><br>🤝 I’m interested in <br>➜ Software Engineering Internships<br><br>🌱 I’m currently learning<br>➜ Microsft Azure <br>➜ Django <br>➜ Generative AI/LLM's<br><br>💬 Ask me about<br>My #1 Favorite Movie<br><br>
 
