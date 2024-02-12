@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Microsoft Azure AZ-900 Certification Exam (March 2024)<br>🤝 I’m interested in<br>Software Engineering / ML Internships<br><br>🌱 I’m currently learning<br>Microsoft Azure, Django, Generative AI/LLM's<br><br>💬 Ask me about<br>My #1 Favorite Movie
+🔭 I’m currently working on<br>Microsoft Azure AZ-900 Certification Exam (March 2024)<br><br>🤝 I’m interested in<br>Software Engineering / ML Internships<br><br>🌱 I’m currently learning<br>Microsoft Azure, Django, Generative AI/LLM's<br><br>💬 Ask me about<br>My #1 Favorite Movie
 
 
 ## 🌐 Socials:
