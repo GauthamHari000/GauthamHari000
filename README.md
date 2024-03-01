@@ -1,5 +1,6 @@
 # 💫 About Me:
 Sophomore CS Major at the University of Maryland, College Park
+
 🔭 I’m currently working on<br>Microsoft Azure AZ-900 Certification Exam (April 2024)<br><br>🤝 I’m interested in<br>Software Engineering / ML Internships<br><br>🌱 I’m currently learning<br>Microsoft Azure, Django, Generative AI/LLM's<br><br>
 🏄 My hobbies include<br>Basketball/Tennis, Hiking, Gym, Formula 1<br>
 
