@@ -1,5 +1,6 @@
 # 💫 About Me:
 Junior CS Major at the University of Maryland, College Park
+
 Interned at MITRE as a Software Engineering Intern working with ML/AI
 
 
