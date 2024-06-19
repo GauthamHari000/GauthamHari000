@@ -1,7 +1,7 @@
 # 💫 About Me:
 Junior CS Major at the University of Maryland, College Park
 
-Interned at MITRE as a Software Engineering Intern working with ML/AI
+Interning at MITRE as a Software Engineering Intern working with ML/AI
 
 
 🔭 I’m currently working on a<br>AWS Certified Cloud Practitioner Exam<br><br>🤝 I’m interested in<br>Software Engineering / ML Internships<br><br>🌱 I’m currently learning<br>AWS, Django, Generative AI/LLM's<br><br>
