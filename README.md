@@ -1,10 +1,9 @@
 # 💫 About Me:
 Junior CS Major at the University of Maryland, College Park
 
-Interning at MITRE as a Software Engineering Intern working with Computer Vision and ML/AI
+Interned 2x at MITRE as a Software Engineering Intern working with Computer Vision and ML/AI
 
-
-🔭 I’m currently working on a<br>AWS Certified Cloud Practitioner Exam<br><br>🤝 I’m interested in<br>Software Engineering / ML <br><br>🌱 I’m currently learning<br>AWS, Django, Generative AI/LLM's<br><br>
+🔭 I’m currently working on a<br>AWS Certified AI Practicioner<br><br>🤝 I’m interested in<br>Software Engineering / ML <br><br>🌱 I’m currently learning<br>AWS, Django, Generative AI/LLM's<br><br>
 🏄 My hobbies include<br>Basketball/Tennis, Hiking, Gym, Formula 1<br>
 
 💬 Ask me about<br>My Favorite Movie 
