@@ -3,7 +3,7 @@ Junior CS Major at the University of Maryland, College Park
 
 Interned 2x at MITRE as a Software Engineering Intern working with Computer Vision and ML/AI
 
-[AWS Certified Cloud Practicioner Certificate](https://cp.certmetrics.com/amazon/en/public/verify/credential/7a1a79259aad4467a8e2269e790a4f5f))
+[AWS Certified Cloud Practicioner Certificate](https://cp.certmetrics.com/amazon/en/public/verify/credential/7a1a79259aad4467a8e2269e790a4f5f)
 
 🔭 I’m currently working on a<br>AWS Certified AI Practicioner<br><br>🤝 I’m interested in<br>Software Engineering / ML <br><br>🌱 I’m currently learning<br>AWS, Django, Generative AI/LLM's<br><br>
 🏄 My hobbies include<br>Basketball/Tennis, Hiking, Gym, Formula 1<br>
