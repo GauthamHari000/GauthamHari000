@@ -1,7 +1,8 @@
 # 💫 About Me:
-Junior CS Major at the University of Maryland, College Park
+Junior CS Major at the University of Maryland, College Park, pursuing a +1 Masters Program 
 
 Interned 2x at MITRE as a Software Engineering Intern working with Computer Vision and ML/AI
+
 
 [AWS Certified Cloud Practicioner Certificate](https://cp.certmetrics.com/amazon/en/public/verify/credential/7a1a79259aad4467a8e2269e790a4f5f)
 
